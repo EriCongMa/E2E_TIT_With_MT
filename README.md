@@ -1,6 +1,5 @@
 # E2E_TIT_With_MT
 
-[TOC]
 
 E2E_TIT_With_MT: End-to-end Text Image Translation with Machine Translation.
 
