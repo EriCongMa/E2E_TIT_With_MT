@@ -3,7 +3,9 @@
 
 E2E_TIT_With_MT: End-to-end Text Image Translation with Machine Translation.
 
-The official repository for ICPR 2022 main conference paper: Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task.
+The official repository for ICPR 2022 main conference paper: 
+
+- **<u>Cong Ma</u>**, Yaping Zhang, Mei Tu, Xu Han, Linghui Wu, Yang Zhao, Yu Zhou. Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task. In Proceedings of the 26th International Conference on Pattern Recognition (ICPR 2022), Virtually, Montréal Québec, Canada. August 21-25, 2022. pp.1664-1670. [arXiv_version](http://arxiv.org/abs/2210.03887), [ieeexplore_version](https://ieeexplore.ieee.org/document/9956695/), [GitHub](https://github.com/EriCongMa/E2E_TIT_With_MT).
 
 
 
@@ -73,8 +75,58 @@ We thanks for all these researchers who have made their codes publicly available
 
 If you want to cite our paper, please use this bibtex version:
 
-```latex
-% To be updated.
-```
+- ieeexplore offered bib citation format
+
+  - ```latex
+    @INPROCEEDINGS{9956695,
+      author={Ma, Cong and Zhang, Yaping and Tu, Mei and Han, Xu and Wu, Linghui and Zhao, Yang and Zhou, Yu},
+      booktitle={2022 26th International Conference on Pattern Recognition (ICPR)}, 
+      title={Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task}, 
+      year={2022},
+      volume={},
+      number={},
+      pages={1664-1670},
+      doi={10.1109/ICPR56361.2022.9956695}}
+    ```
+
+- Semantic Scholar offered bib citation format
+
+  - ```latex
+    @article{Ma2022ImprovingET,
+      title={Improving End-to-End Text Image Translation From the Auxiliary Text Translation Task},
+      author={Cong Ma and Yaping Zhang and Mei Tu and Xu Han and Linghui Wu and Yang Zhao and Yu Zhou},
+      journal={2022 26th International Conference on Pattern Recognition (ICPR)},
+      year={2022},
+      pages={1664-1670}
+    }
+    ```
+
+- DBLP offered bib citation format
+
+  - ```latex
+    @inproceedings{DBLP:conf/icpr/MaZTHWZ022,
+      author    = {Cong Ma and
+                   Yaping Zhang and
+                   Mei Tu and
+                   Xu Han and
+                   Linghui Wu and
+                   Yang Zhao and
+                   Yu Zhou},
+      title     = {Improving End-to-End Text Image Translation From the Auxiliary Text
+                   Translation Task},
+      booktitle = {26th International Conference on Pattern Recognition, {ICPR} 2022,
+                   Montreal, QC, Canada, August 21-25, 2022},
+      pages     = {1664--1670},
+      publisher = {{IEEE}},
+      year      = {2022},
+      url       = {https://doi.org/10.1109/ICPR56361.2022.9956695},
+      doi       = {10.1109/ICPR56361.2022.9956695},
+      timestamp = {Thu, 01 Dec 2022 15:50:19 +0100},
+      biburl    = {https://dblp.org/rec/conf/icpr/MaZTHWZ022.bib},
+      bibsource = {dblp computer science bibliography, https://dblp.org}
+    }
+    ```
+
+
 
 If you have any issues, please contact with [cong.ma@nlpr.ia.ac.cn](mailto:cong.ma@nlpr.ia.ac.cn).
